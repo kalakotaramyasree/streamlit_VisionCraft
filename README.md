@@ -33,17 +33,11 @@ streamlit_visioncraft/
 
 ## ▶️ How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository & Install,Run dependecies:
 ```bash
 git clone https://github.com/your-username/streamlit_visioncraft.git
 cd streamlit_visioncraft
-
-2. Insatll dependecies:
-- bash
 pip install -r requirements.txt
-
-3.Run the app:
-- bash
 Run the app:
 streamlit run app.py
 
